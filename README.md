@@ -1,3 +1,3 @@
 # PlayBooks — PMCC Strategy
 
-This repo contains a comprehensive discretionary playbook for executing the Poor Man’s Covered Call trading strategy.
+This repository holds a comprehensive, discretionary playbook for the Poor Man’s Covered Call trading strategy.
