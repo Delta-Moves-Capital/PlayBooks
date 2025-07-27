@@ -1,0 +1,8 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\NewPlaybook]
+@="📘 Create New Playbook"
+"Icon"="pwsh.exe"
+
+[HKEY_CLASSES_ROOT\Directory\Background\shell\NewPlaybook\command]
+@="pwsh.exe -NoExit -Command \"& 'C:\\Users\\Trader\\OneDrive\\MyLibrary\\LocalRepos\\GitHubRepos\\Playbooks\\New-Playbook.ps1' -Name (Read-Host 'Enter Playbook Name')\""

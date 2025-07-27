@@ -1,0 +1,14 @@
+
+#!/bin/bash
+
+# Fail if using unrenamed 'playbook' folder
+if git diff --cached --name-only | grep -q '^playbook/'; then
+    echo "❌ ERROR: Folder 'playbook' is deprecated. Use '[Name]_Playbook' format."
+    exit 1
+fi
+
+# Warn if README.md not updated with new playbook folder
+if git diff --cached --name-only | grep -q '_Playbook/' && ! git diff --cached --name-only | grep -q 'README.md'; then
+    echo "⚠️  You added a new playbook but did not update README.md"
+    exit 1
+fi

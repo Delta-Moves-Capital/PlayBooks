@@ -1,0 +1,14 @@
+{
+  "PMCC_Playbook": {
+    "category": "Income Strategies",
+    "tags": ["options", "low-risk", "covered calls"]
+  },
+  "IronCondor_Playbook": {
+    "category": "Neutral Strategies",
+    "tags": ["credit spread", "options"]
+  },
+  "CashSecuredPut_Playbook": {
+    "category": "Income Strategies",
+    "tags": ["short put", "options", "cash-secured"]
+  }
+}
