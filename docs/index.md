@@ -3,16 +3,16 @@ title: Strategy Playbooks
 layout: default
 ---
 
-# ?? Delta Moves Capital – Strategy Playbooks
+# ?? Delta Moves Capital ï¿½ Strategy Playbooks
 
 Welcome to the official Playbooks repository.
 
 Here you'll find fully documented options trading strategies including:
 
-- ? PMCC – Poor Man's Covered Call  
-- ? ITMCC – In-the-Money Covered Call  
-- ? CSP – Cash-Secured Puts  
-- ? IC – Iron Condors  
+- ? PMCC ï¿½ Poor Man's Covered Call  
+- ? ITMCC ï¿½ In-the-Money Covered Call  
+- ? CSP ï¿½ Cash-Secured Puts  
+- ? IC ï¿½ Iron Condors  
 
 Each playbook includes:
 - ?? Strategy markdown documentation
@@ -32,11 +32,12 @@ Each playbook includes:
 - [_Template_Playbook](./_Template_Playbook/README.md)
 
 
-## ?? Explore the Playbooks
+## ðŸ”— Explore the Playbooks
 
 | Strategy | Documentation |
 |----------|----------------|
-| PMCC     | [View PMCC Playbook](../PMCC_Playbook/PMCC_Playbook.md) |
-| ITMCC    | [View ITMCC Playbook](../ITMCC_Playbook/ITMCC_Playbook.md) |
+| PMCC     | [View PMCC Playbook](/PlayBooks/PMCC_Playbook/) |
+| ITMCC    | [View ITMCC Playbook](/PlayBooks/ITMCC_Playbook/) |
+
 
 More coming soon.
