@@ -1,11 +1,31 @@
-﻿# 📘 Strategy Playbook Index
+﻿---
+title: Strategy Playbooks
+layout: default
+---
 
-## 🗂 Income Strategies
+# 🧠 Delta Moves Capital – Strategy Playbooks
 
-* [PMCC\_Playbook](./PMCC_Playbook/PMCC_Playbook.md)
+Welcome to the official Playbooks repository.
 
-## 🗂 Uncategorized Strategies
+Here you'll find fully documented options trading strategies including:
 
-* [ITMCC\_Playbook](./ITMCC_Playbook/ITMCC_Playbook.md)
-* [TestRun\_Playbook](./TestRun_Playbook/README.md)
-* [\_Template\_Playbook](./_Template_Playbook/README.md)
+- ✅ PMCC – Poor Man's Covered Call  
+- ✅ ITMCC – In-the-Money Covered Call  
+- ✅ CSP – Cash-Secured Puts  
+- ✅ IC – Iron Condors  
+
+Each playbook includes:
+- 📘 Strategy markdown documentation
+- 📊 Risk/reward modeling (Jupyter Notebook)
+- 🔫 Trigger conditions (CSV format)
+
+---
+
+## 🔗 Explore the Playbooks
+
+| Strategy | Documentation |
+|----------|----------------|
+| PMCC     | [View PMCC Playbook](../PMCC_Playbook/PMCC_Playbook.md) |
+| ITMCC    | [View ITMCC Playbook](../ITMCC_Playbook/ITMCC_Playbook.md) |
+
+More coming soon.
