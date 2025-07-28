@@ -36,8 +36,9 @@ Each playbook includes:
 
 | Strategy | Documentation |
 |----------|----------------|
-| PMCC     | [View PMCC Playbook](/PlayBooks/PMCC_Playbook/) |
-| ITMCC    | [View ITMCC Playbook](/PlayBooks/ITMCC_Playbook/) |
+| PMCC     | [View PMCC Playbook](PMCC_Playbook/) |
+| ITMCC    | [View ITMCC Playbook](ITMCC_Playbook/) |
+
 
 
 More coming soon.
