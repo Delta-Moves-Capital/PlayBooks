@@ -1,0 +1,6 @@
+Trigger Type,Criteria,Notes
+Roll Candidate,Extrinsic value < $0.10,"Time to roll or close to avoid assignment"
+Assignment Risk,Strike in-the-money with <3 DTE,"Review for early assignment, esp. if dividend due"
+Optimal Entry,Assigned via CSP or Buy-to-Open,"Establish initial position in underlying"
+Optimal Exit,Extrinsic value fully decayed,"Covered call fully captured premium"
+Watchlist Add,Stock enters long-term uptrend,"Potential ITMCC candidate"

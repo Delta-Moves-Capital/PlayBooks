@@ -1,0 +1,24 @@
+﻿name: Validate Playbook Index
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  check-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Validate playbook-index.md presence
+        run: |
+          if [ ! -f playbook-index.md ]; then
+            echo "playbook-index.md is missing!" && exit 1
+          fi
+
+      - name: Check Markdown formatting
+        run: |
+          npx prettier --check "**/*.md"

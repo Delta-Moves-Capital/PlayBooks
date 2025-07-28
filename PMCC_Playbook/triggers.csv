@@ -1,0 +1,5 @@
+Trigger,Condition,Action
+Roll Short Call,Extrinsic <= 0.10 or profit > 60%,Roll to next expiration
+Roll LEAP,Delta < 0.70 and DTE < 90,Roll to maintain delta exposure
+Avoid Assignment,Short Call ITM with low extrinsic,Roll early or close
+Dividend Risk,Ex-dividend in 4–6 days,Roll or close short

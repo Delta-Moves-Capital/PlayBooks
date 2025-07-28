@@ -10,5 +10,9 @@
   "CashSecuredPut_Playbook": {
     "category": "Income Strategies",
     "tags": ["short put", "options", "cash-secured"]
+  },
+  "ITMCC_Playbook": {
+    "category": "Income Strategies",
+    "tags": ["covered calls", "assigned puts", "extrinsic decay"]
   }
 }

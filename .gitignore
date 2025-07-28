@@ -1,0 +1,4 @@
+# Ignore debug/output files
+*.txt
+!README.txt
+!notes.txt
