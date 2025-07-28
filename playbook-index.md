@@ -1,12 +1,11 @@
-﻿# Strategy Playbook Index
+﻿# 📘 Strategy Playbook Index
 
-## Income Strategies
+## 🗂 Income Strategies
 
-- [PMCC_Playbook](./PMCC_Playbook/PMCC_Playbook.md)
+* [PMCC\_Playbook](./PMCC_Playbook/PMCC_Playbook.md)
 
-## Uncategorized Strategies
+## 🗂 Uncategorized Strategies
 
-- [ITMCC_Playbook](./ITMCC_Playbook/ITMCC_Playbook.md)
-- [TestRun_Playbook](./TestRun_Playbook/README.md)
-- [_Template_Playbook](./_Template_Playbook/README.md)
-
+* [ITMCC\_Playbook](./ITMCC_Playbook/ITMCC_Playbook.md)
+* [TestRun\_Playbook](./TestRun_Playbook/README.md)
+* [\_Template\_Playbook](./_Template_Playbook/README.md)
